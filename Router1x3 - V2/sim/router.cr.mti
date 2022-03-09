@@ -1,0 +1,36 @@
+D:/MP/Verilog_labs/Router1x3/tb/router_sync_tb.v {1 {vlog -work work -stats=none D:/MP/Verilog_labs/Router1x3/tb/router_sync_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module router_sync_tb
+
+Top level modules:
+	router_sync_tb
+
+} {} {}} D:/MP/Verilog_labs/Router1x3/tb/router_fsm_tb.v {1 {vlog -work work -stats=none D:/MP/Verilog_labs/Router1x3/tb/router_fsm_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module router_fsm_tb
+
+Top level modules:
+	router_fsm_tb
+
+} {} {}} D:/MP/Verilog_labs/Router1x3/tb/router_reg_tb.v {1 {vlog -work work -stats=none D:/MP/Verilog_labs/Router1x3/tb/router_reg_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module router_reg_tb
+
+Top level modules:
+	router_reg_tb
+
+} {} {}} D:/MP/Verilog_labs/Router1x3/rtl/router_top.v {1 {vlog -work work -stats=none D:/MP/Verilog_labs/Router1x3/rtl/router_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module router_top
+
+Top level modules:
+	router_top
+
+} {} {}} D:/MP/Verilog_labs/Router1x3/tb/router_fifo_tb.v {1 {vlog -work work -stats=none D:/MP/Verilog_labs/Router1x3/tb/router_fifo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module router_fifo_tb
+
+Top level modules:
+	router_fifo_tb
+
+} {} {}}
